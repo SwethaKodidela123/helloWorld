@@ -1,5 +1,15 @@
 # helloWorld
+Welcome to the Hello World Project! This project demonstrates a simple Django web application that returns a JSON object with a "Hello World" message.
 
+## To Start the Web App
+
+1. **Clone this Repository:** Click on the green "Code" button above and copy the URL. Open your terminal and type:
+
+git clone 
+
+```sh
+cd hello
+```
 ## To Start the Web App
 
 ```sh
