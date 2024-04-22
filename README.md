@@ -7,9 +7,7 @@ Welcome to the Hello World Project! This project demonstrates a simple Django we
 
 git clone 
 
-```sh
-cd hello
-```
+
 ## To Start the Web App
 
 ```sh
